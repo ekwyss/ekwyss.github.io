@@ -14,14 +14,13 @@ h2 {
     font_family: Arial;
     font_size: 36px;
     color: blue;
-    padding: 20px;
 }
 
 h3 {
     font_family: Arial;
     font_size 24px;
     color: blue;
-    padding: 15px;
+}
 
 p {
     font-size: 16px;
